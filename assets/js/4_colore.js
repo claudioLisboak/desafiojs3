@@ -20,6 +20,9 @@ div4.style.height='200px'
 div4.style.backgroundColor ='yellow'
 
 const divPadre = document.querySelector(".flex-container")
+
+
+
 divPadre.style.display='flex'
 divPadre.style.gap ='10px'
 
